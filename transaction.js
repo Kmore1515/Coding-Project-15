@@ -25,4 +25,4 @@ export class Transaction {
     } else {
         throw new Error(`Invalid Transaction type, please write buy or sell.`)
     }
-}
+};
