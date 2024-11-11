@@ -14,5 +14,5 @@ try {
     console.log("Trans 2:", transaction2);
 } catch (error) {
     console.error("Transaction Error");
-}
+};
 console.log("New Portfolio Total Value", calculatePortfolioValue());
